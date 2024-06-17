@@ -1,18 +1,20 @@
 /* 各區背景圖 */
 #home{
-    background-image: url("../images/p0.jpg");
+    background-image: url("../images/P-1.JPG");
 }
 #about{
-    /* background-image: url("../images/p1.jpg"); */
+    background-image: url("../images/P-2.jpg");
+    /* background-image: url("../images/P-2.gif"); */
 }
 #news{
+    background-image: url("../images/P-3.jpg");
     /* background-image: url("../images/p2.jpg"); */
 }
 #service{
-    background-image: url("../images/p3.jpg");
+    background-image: url("../images/P-4.jpg");
 }
 #contact{
-    background-image: url("../images/p4.jpg");
+    background-image: url("../images/p-5.jpg");
 }
 
 /* 將視窗的寬高設定為滿版（100%） */
