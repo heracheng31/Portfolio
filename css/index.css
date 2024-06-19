@@ -7,7 +7,7 @@
     /* background-image: url("../images/P-2.gif"); */
 }
 #news{
-    background-image: url("../images/P-3.jpg");
+    background-image: url("../images/P-3-1.jpg");
     /* background-image: url("../images/p2.jpg"); */
 }
 #service{
@@ -52,4 +52,18 @@ section{
 }
 .txt-bg i{
     color: blue;
+}
+#news .box img{
+    width: 100%;
+    padding-left: 30px
+}
+#news .box{
+    display: inline-block;
+}
+.container .row .box{
+    float: left; width:33%;
+    display: inline-block; 
+}
+.news {
+    overflow: hidden;
 }
